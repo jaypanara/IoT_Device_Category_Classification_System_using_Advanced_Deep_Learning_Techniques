@@ -9,7 +9,7 @@ of IoT devices in a network traffic. So, in this research, we
 aim at developing a novel framework for classifying different
 types of IoT devices in a network using advanced deep learning
 techniques. The dataset utilised to train the neural network model
-was the “IoT device identification” dataset [1]. Additionally,
+was the “IoT device identification” dataset. Additionally,
 a comparative study between the proposed neural networkbased model with other state-of-the-art classical machine learning
 models is also presented. The proposed pipeline has been shown
 to surpass state-of-the-art methods in recognising the kind of
